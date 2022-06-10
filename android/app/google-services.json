@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63545294352",
+    "project_id": "medversemobileapp",
+    "storage_bucket": "medversemobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63545294352:android:4845e0976e1e16566e5495",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63545294352-0cucq8lk6p8d3mthupi2jteih86e8u98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHNaEZZziXelnEZK4lWm0tTa00GiOelc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63545294352-0cucq8lk6p8d3mthupi2jteih86e8u98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
